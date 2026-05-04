@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-functions-modules-file-io",
+      "title": "Functions, Modules, and File I/O",
+      "description": "Practice writing reusable functions, organizing code into modules, and handling file input/output in Python.",
+      "path": "assignments/python-functions-modules-file-io",
+      "dueDate": "2026-05-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Input",
+          "file": "input.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }

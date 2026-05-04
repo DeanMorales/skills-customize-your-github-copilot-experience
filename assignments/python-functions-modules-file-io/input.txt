@@ -1,0 +1,2 @@
+This is a sample input file for the Functions, Modules, and File I/O assignment.
+Use it to test file reading and word counting in your Python program.
